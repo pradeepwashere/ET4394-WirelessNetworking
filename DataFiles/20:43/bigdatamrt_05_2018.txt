@@ -1,0 +1,349 @@
+FRITZ!Box 5490 HO	b0:35:9f:33:80:15,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 WG	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 PW	b0:35:9f:33:80:15,e0:28:6d:30:7e:19,e0:28:6d:30:7e:19
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4a,e0:28:6d:30:3f:4a
+Ziggo	ff:ff:ff:ff:ff:ff,92:5c:14:08:cb:68,92:5c:14:08:cb:68
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 PL	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6d:3f,e0:28:6d:30:6d:3f
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+DIRECT-DA-HP ENVY 5540 series	b0:35:9f:33:80:15,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 TC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+DIRECT-p7-BRAVIA	ff:ff:ff:ff:ff:ff,2a:24:ff:01:77:2f,2a:24:ff:01:77:2f
+DIRECT-DA-HP ENVY 5540 series	b0:35:9f:33:80:15,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+FRITZ!Box 5490 GN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4c:8f,e0:28:6d:30:4c:8f
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:12,e0:28:6d:30:84:12
+FRITZ!Box 5490 TK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3e:66,e0:28:6d:30:3e:66
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4b,e0:28:6d:30:3f:4b
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 BF	ff:ff:ff:ff:ff:ff,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 ML	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6d:a8,e0:28:6d:30:6d:a8
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 BF	b0:35:9f:33:80:15,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:91,e0:28:6d:30:5e:91
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 WG	b0:35:9f:33:80:15,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 WG	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 HO	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+HZN240781966	ff:ff:ff:ff:ff:ff,54:fa:3e:9c:ef:f3,54:fa:3e:9c:ef:f3
+H369A7249B8	b0:35:9f:33:80:15,78:96:82:72:49:b8,78:96:82:72:49:b8
+FRITZ!Box 5490 PW	b0:35:9f:33:80:15,e0:28:6d:30:7e:19,e0:28:6d:30:7e:19
+FRITZ!Box 5490 QD	b0:35:9f:33:80:15,e0:28:6d:30:3f:4a,e0:28:6d:30:3f:4a
+FRITZ!Box 5490 PW	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7e:19,e0:28:6d:30:7e:19
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:90,e0:28:6d:30:5e:90
+FRITZ!Box 5490 AK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:68:d0,e0:28:6d:30:68:d0
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4a,e0:28:6d:30:3f:4a
+VGV751928544D	b0:35:9f:33:80:15,9c:80:df:28:54:4d,9c:80:df:28:54:4d
+VGV751928544D	b0:35:9f:33:80:15,9c:80:df:28:54:4d,9c:80:df:28:54:4d
+WII	b0:35:9f:33:80:15,a8:d3:f7:03:77:42,a8:d3:f7:03:77:42
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 TC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8d,e0:28:6d:30:85:8d
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8d,e0:28:6d:30:85:8d
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8d,e0:28:6d:30:85:8d
+FRITZ!Box 5490 TC	b0:35:9f:33:80:15,e0:28:6d:30:85:8d,e0:28:6d:30:85:8d
+FRITZ!Box 5490 TC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:85:8d,e0:28:6d:30:85:8d
+FRITZ!Box 5490 OQ	b0:35:9f:33:80:15,e0:28:6d:30:57:7a,e0:28:6d:30:57:7a
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:12,e0:28:6d:30:84:12
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4b,e0:28:6d:30:3f:4b
+FRITZ!Box 5490 LJ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:71:d9,e0:28:6d:30:71:d9
+FRITZ!Box 5490 RO	ff:ff:ff:ff:ff:ff,e0:28:6d:30:41:08,e0:28:6d:30:41:08
+FRITZ!Box 5490 BF	ff:ff:ff:ff:ff:ff,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 LM	b0:35:9f:33:80:15,e0:28:6d:30:47:aa,e0:28:6d:30:47:aa
+FRITZ!Box 5490 BF	b0:35:9f:33:80:15,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 CU	ff:ff:ff:ff:ff:ff,e0:28:6d:30:82:04,e0:28:6d:30:82:04
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:91,e0:28:6d:30:5e:91
+FRITZ!Box 5490 DT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3b:76,e0:28:6d:30:3b:76
+FRITZ!Box 5490 IX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:43:b9,e0:28:6d:30:43:b9
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 WG	b0:35:9f:33:80:15,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 HO	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:90,e0:28:6d:30:5e:90
+FRITZ!Box 5490 AK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:68:d0,e0:28:6d:30:68:d0
+FRITZ!Box 5490 CD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:84:11,e0:28:6d:30:84:11
+FRITZ!Box 5490 EY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 VY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6f:e6,e0:28:6d:30:6f:e6
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 YX	b0:35:9f:33:80:15,e0:28:6d:2f:bf:1a,e0:28:6d:2f:bf:1a
+FRITZ!Box 5490 GN	b0:35:9f:33:80:15,e0:28:6d:30:4c:8e,e0:28:6d:30:4c:8e
+FRITZ!Box 5490 YX	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:bf:1a,e0:28:6d:2f:bf:1a
+DIRECT-DA-HP ENVY 5540 series	ff:ff:ff:ff:ff:ff,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+DIRECT-p7-BRAVIA	ff:ff:ff:ff:ff:ff,2a:24:ff:01:77:2f,2a:24:ff:01:77:2f
+FRITZ!Box 5490 TC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:85:8c,e0:28:6d:30:85:8c
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:12,e0:28:6d:30:84:12
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4b,e0:28:6d:30:3f:4b
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 BF	ff:ff:ff:ff:ff:ff,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 BF	b0:35:9f:33:80:15,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 VY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6f:e7,e0:28:6d:30:6f:e7
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 VH	b0:35:9f:33:80:15,e0:28:6d:30:42:fc,e0:28:6d:30:42:fc
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 WG	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 WG	b0:35:9f:33:80:15,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+FRITZ!Box 5490 EY	b0:35:9f:33:80:15,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 EY	b0:35:9f:33:80:15,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 EY	b0:35:9f:33:80:15,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 QD	b0:35:9f:33:80:15,e0:28:6d:30:3f:4a,e0:28:6d:30:3f:4a
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:11,e0:28:6d:30:84:11
+FRITZ!Box 5490 AK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:68:d0,e0:28:6d:30:68:d0
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4a,e0:28:6d:30:3f:4a
+Ziggo	ff:ff:ff:ff:ff:ff,92:5c:14:08:cb:68,92:5c:14:08:cb:68
+FRITZ!Box 5490 CD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:84:11,e0:28:6d:30:84:11
+FRITZ!Box 5490 EY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 VY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6f:e6,e0:28:6d:30:6f:e6
+FRITZ!Box 5490 PW	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7e:19,e0:28:6d:30:7e:19
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 GN	b0:35:9f:33:80:15,e0:28:6d:30:4c:8e,e0:28:6d:30:4c:8e
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 YX	b0:35:9f:33:80:15,e0:28:6d:2f:bf:1a,e0:28:6d:2f:bf:1a
+FRITZ!Box 5490 RA	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:12,e0:28:6d:30:84:12
+FRITZ!Box 5490 HO	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7d:cd,e0:28:6d:30:7d:cd
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 QD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3f:4b,e0:28:6d:30:3f:4b
+FRITZ!Box 5490 PZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7b:20,e0:28:6d:30:7b:20
+FRITZ!Box 5490 BF	ff:ff:ff:ff:ff:ff,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 QD	b0:35:9f:33:80:15,e0:28:6d:30:3f:4b,e0:28:6d:30:3f:4b
+FRITZ!Box 5490 LM	b0:35:9f:33:80:15,e0:28:6d:30:47:aa,e0:28:6d:30:47:aa
+FRITZ!Box 5490 BF	b0:35:9f:33:80:15,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:91,e0:28:6d:30:5e:91
+FRITZ!Box 5490 YX	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:bf:1b,e0:28:6d:2f:bf:1b
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 HO	b0:35:9f:33:80:15,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 HO	b0:35:9f:33:80:15,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 WG	b0:35:9f:33:80:15,e0:28:6d:30:34:fa,e0:28:6d:30:34:fa
+ZiggoAAEFD	ff:ff:ff:ff:ff:ff,34:23:87:bb:c7:10,34:23:87:bb:c7:10
+Ziggo	b0:35:9f:33:80:15,36:23:87:bb:c7:11,36:23:87:bb:c7:11
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6d,e0:28:6d:30:55:6d
+FRITZ!Box 5490 HO	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7d:cc,e0:28:6d:30:7d:cc
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:dd,e0:28:6d:30:7f:dd
+FRITZ!Box 5490 EY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:61:1f,e0:28:6d:30:61:1f
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+Ziggo	ff:ff:ff:ff:ff:ff,d2:b2:c4:28:08:4d,d2:b2:c4:28:08:4d
+FRITZ!Box 5490 VY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6f:e6,e0:28:6d:30:6f:e6
+FRITZ!Box 5490 PW	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7e:19,e0:28:6d:30:7e:19
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:90,e0:28:6d:30:5e:90
+Ziggo	ff:ff:ff:ff:ff:ff,92:5c:14:08:cb:68,92:5c:14:08:cb:68
+VGV751928544D	b0:35:9f:33:80:15,9c:80:df:28:54:4d,9c:80:df:28:54:4d
+WII	b0:35:9f:33:80:15,a8:d3:f7:03:77:42,a8:d3:f7:03:77:42
+WII	b0:35:9f:33:80:15,a8:d3:f7:03:77:42,a8:d3:f7:03:77:42
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 ZV	ff:ff:ff:ff:ff:ff,e0:28:6d:30:72:c7,e0:28:6d:30:72:c7
+Ziggo44790	b0:35:9f:33:80:15,fc:b4:e6:b8:98:ff,fc:b4:e6:b8:98:ff
+FRITZ!Box 5490 EY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:61:20,e0:28:6d:30:61:20
+FRITZ!Box 5490 CD	b0:35:9f:33:80:15,e0:28:6d:30:84:12,e0:28:6d:30:84:12
+FRITZ!Box 5490 GT	ff:ff:ff:ff:ff:ff,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 GT	b0:35:9f:33:80:15,e0:28:6d:30:55:6e,e0:28:6d:30:55:6e
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 BF	ff:ff:ff:ff:ff:ff,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:8a,e0:28:6d:30:4f:8a
+FRITZ!Box 5490 BF	b0:35:9f:33:80:15,e0:28:6d:30:81:6a,e0:28:6d:30:81:6a
+FRITZ!Box 5490 FD	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5e:91,e0:28:6d:30:5e:91
+FRITZ!Box 5490 DC	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 DC	b0:35:9f:33:80:15,e0:28:6d:30:7f:de,e0:28:6d:30:7f:de
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 GV	b0:35:9f:33:80:15,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:18,e0:28:6d:30:5b:18
+FRITZ!Box 5490 NB	b0:35:9f:33:80:15,e0:28:6d:30:73:df,e0:28:6d:30:73:df
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:18,e0:28:6d:30:5b:18
+FRITZ!Box 5490 NH	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5b:18,e0:28:6d:30:5b:18
+FRITZ!Box 5490 GV	ff:ff:ff:ff:ff:ff,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 NB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:73:df,e0:28:6d:30:73:df
+FRITZ!Box 5490 GV	b0:35:9f:33:80:15,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 OX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3a:f2,e0:28:6d:30:3a:f2
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 IX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:43:b8,e0:28:6d:30:43:b8
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 FR	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:a6,e0:28:6d:30:34:a6
+Gosia	ff:ff:ff:ff:ff:ff,e0:28:6d:30:70:26,e0:28:6d:30:70:26
+FRITZ!Box 5490 GX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:7e:52,e0:28:6d:30:7e:52
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:06,e0:28:6d:30:45:06
+FRITZ!Box 5490 CQ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6d:ef,e0:28:6d:30:6d:ef
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 ML	b0:35:9f:33:80:15,e0:28:6d:30:6d:a7,e0:28:6d:30:6d:a7
+FRITZ!Box 5490 NN	b0:35:9f:33:80:15,e0:28:6d:30:4e:a1,e0:28:6d:30:4e:a1
+NotPolitie_van_24	b0:35:9f:33:80:15,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+FRITZ!Box 5490 RA	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 NN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4e:a1,e0:28:6d:30:4e:a1
+DIRECT-DA-HP ENVY 5540 series	b0:35:9f:33:80:15,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+NotPolitie_van_24	ff:ff:ff:ff:ff:ff,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+DIRECT-DA-HP ENVY 5540 series	b0:35:9f:33:80:15,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 NH	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 FR	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:a7,e0:28:6d:30:34:a7
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:18,e0:28:6d:30:5b:18
+FRITZ!Box 5490 JZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4a:c3,e0:28:6d:30:4a:c3
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 MK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:82:41,e0:28:6d:30:82:41
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:06,e0:28:6d:30:45:06
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 GV	b0:35:9f:33:80:15,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 FR	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:a6,e0:28:6d:30:34:a6
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:06,e0:28:6d:30:45:06
+FRITZ!Box 5490 CQ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:6d:ef,e0:28:6d:30:6d:ef
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 GV	ff:ff:ff:ff:ff:ff,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 OX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3a:f2,e0:28:6d:30:3a:f2
+FRITZ!Box 5490 IX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:43:b8,e0:28:6d:30:43:b8
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 RA	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 ML	b0:35:9f:33:80:15,e0:28:6d:30:6d:a7,e0:28:6d:30:6d:a7
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+Ziggo44790	b0:35:9f:33:80:15,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+FRITZ!Box 5490 NN	b0:35:9f:33:80:15,e0:28:6d:30:4e:a1,e0:28:6d:30:4e:a1
+FRITZ!Box 5490 NN	b0:35:9f:33:80:15,e0:28:6d:30:4e:a1,e0:28:6d:30:4e:a1
+NotPolitie_van_24	b0:35:9f:33:80:15,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+NotPolitie_van_24	b0:35:9f:33:80:15,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+DIRECT-DA-HP ENVY 5540 series	b0:35:9f:33:80:15,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+NotPolitie_van_24	ff:ff:ff:ff:ff:ff,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+FRITZ!Box 5490 GN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4c:8e,e0:28:6d:30:4c:8e
+FRITZ!Box 5490 EG	ff:ff:ff:ff:ff:ff,e0:28:6d:30:53:eb,e0:28:6d:30:53:eb
+DIRECT-DA-HP ENVY 5540 series	ff:ff:ff:ff:ff:ff,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+FRITZ!Box 5490 RA	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 NN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4e:a1,e0:28:6d:30:4e:a1
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+FRITZ!Box 5490 XB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:13,e0:28:6d:30:34:13
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 ML	b0:35:9f:33:80:15,e0:28:6d:30:6d:a8,e0:28:6d:30:6d:a8
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:8a,e0:28:6d:30:4f:8a
+FRITZ!Box 5490 NN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4e:a2,e0:28:6d:30:4e:a2
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 IX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:43:b9,e0:28:6d:30:43:b9
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 IX	b0:35:9f:33:80:15,e0:28:6d:30:43:b9,e0:28:6d:30:43:b9
+FRITZ!Box 5490 JZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4a:c4,e0:28:6d:30:4a:c4
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 EG	b0:35:9f:33:80:15,e0:28:6d:30:53:ec,e0:28:6d:30:53:ec
+FRITZ!Box 5490 MK	b0:35:9f:33:80:15,e0:28:6d:30:82:41,e0:28:6d:30:82:41
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 JZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4a:c3,e0:28:6d:30:4a:c3
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 MK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:82:41,e0:28:6d:30:82:41
+FRITZ!Box 5490 NH	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5b:18,e0:28:6d:30:5b:18
+FRITZ!Box 5490 NB	ff:ff:ff:ff:ff:ff,e0:28:6d:30:73:df,e0:28:6d:30:73:df
+FRITZ!Box 5490 FZ	b0:35:9f:33:80:15,e0:28:6d:30:35:f7,e0:28:6d:30:35:f7
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:06,e0:28:6d:30:45:06
+FRITZ!Box 5490 XB	b0:35:9f:33:80:15,e0:28:6d:30:34:12,e0:28:6d:30:34:12
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f4,e0:28:6d:30:78:f4
+FRITZ!Box 5490 GV	ff:ff:ff:ff:ff:ff,e0:28:6d:30:41:93,e0:28:6d:30:41:93
+FRITZ!Box 5490 IX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:43:b8,e0:28:6d:30:43:b8
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a7,e0:28:6d:2f:b1:a7
+FRITZ!Box 5490 FR	ff:ff:ff:ff:ff:ff,e0:28:6d:30:34:a6,e0:28:6d:30:34:a6
+Gosia	ff:ff:ff:ff:ff:ff,e0:28:6d:30:70:26,e0:28:6d:30:70:26
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:06,e0:28:6d:30:45:06
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+NotPolitie_van_24	ff:ff:ff:ff:ff:ff,e8:de:27:f5:89:1d,e8:de:27:f5:89:1d
+DIRECT-DA-HP ENVY 5540 series	ff:ff:ff:ff:ff:ff,18:60:24:2a:2a:db,18:60:24:2a:2a:db
+FRITZ!Box 5490 RA	ff:ff:ff:ff:ff:ff,e0:28:6d:30:4f:89,e0:28:6d:30:4f:89
+Ziggo44790	ff:ff:ff:ff:ff:ff,fc:52:8d:c0:06:e7,fc:52:8d:c0:06:e7
+Ziggo44790	b0:35:9f:33:80:15,fc:b4:e6:b8:98:ff,fc:b4:e6:b8:98:ff
+FRITZ!Box 5490 OX	ff:ff:ff:ff:ff:ff,e0:28:6d:30:3a:f3,e0:28:6d:30:3a:f3
+FRITZ!Box 5490 FZ	ff:ff:ff:ff:ff:ff,e0:28:6d:30:35:f8,e0:28:6d:30:35:f8
+FRITZ!Box 5490 LY	ff:ff:ff:ff:ff:ff,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 PY	ff:ff:ff:ff:ff:ff,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 LY	b0:35:9f:33:80:15,e0:28:6d:30:45:07,e0:28:6d:30:45:07
+FRITZ!Box 5490 ML	b0:35:9f:33:80:15,e0:28:6d:30:6d:a8,e0:28:6d:30:6d:a8
+FRITZ!Box 5490 RA	b0:35:9f:33:80:15,e0:28:6d:30:4f:8a,e0:28:6d:30:4f:8a
+FRITZ!Box 5490 PY	b0:35:9f:33:80:15,e0:28:6d:2f:b1:a8,e0:28:6d:2f:b1:a8
+FRITZ!Box 5490 MK	ff:ff:ff:ff:ff:ff,e0:28:6d:30:82:42,e0:28:6d:30:82:42
+FRITZ!Box 5490 NH	ff:ff:ff:ff:ff:ff,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 CN	ff:ff:ff:ff:ff:ff,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 NH	b0:35:9f:33:80:15,e0:28:6d:30:5b:19,e0:28:6d:30:5b:19
+FRITZ!Box 5490 CN	b0:35:9f:33:80:15,e0:28:6d:30:78:f5,e0:28:6d:30:78:f5
+FRITZ!Box 5490 EG	ff:ff:ff:ff:ff:ff,e0:28:6d:30:53:ec,e0:28:6d:30:53:ec

@@ -1,0 +1,2 @@
+Total number of unique SSIDs: 56
+Avarage SSID length is: 18

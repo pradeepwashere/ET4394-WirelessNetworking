@@ -1,0 +1,55 @@
+     30 Ziggo44790
+     30 FRITZ!Box 5490 IX
+     28 FRITZ!Box 5490 OX
+     27 FRITZ!Box 5490 NH
+     26 FRITZ!Box 5490 NB
+     24 FRITZ!Box 5490 JZ
+     24 FRITZ!Box 5490 FZ
+     23 FRITZ!Box 5490 YX
+     21 NotPolitie_van_24
+     21 FRITZ!Box 5490 FR
+     19 DIRECT-DA-HP ENVY 5540 series
+     18 FRITZ!Box 5490 XB
+     18 FRITZ!Box 5490 NN
+     15 NotPolitie_van_50
+     13 FRITZ!Box 666
+     11 FRITZ!Box 5490 EG
+     11 FRITZ!Box 5490 CQ
+     11 DIRECT-1I[TV]Us and Them
+     10 FRITZ!Box 5490 RO
+     10 FRITZ!Box 5490 LM
+      9 FRITZ!Box 5490 CN
+      9 FRITZ!Box 5490 BF
+      7 FRITZ!Box 5490 XE
+      6 FRITZ!Box 5490 RS
+      6 FRITZ!Box 5490 PY
+      6 FRITZ!Box 5490 IC
+      6 FRITZ!Box 5490 AN
+      4 Souf
+      4 Gosia
+      4 FRITZ!Box 5490 SQ
+      4 FRITZ!Box 5490 RA
+      4 FRITZ!Box 5490 LY
+      4 FRITZ!Box 5490 GT
+      3 FRITZ!Box 5490 YH
+      3 FRITZ!Box 5490 TB
+      3 FRITZ!Box 5490 MV
+      3 FRITZ!Box 5490 ET
+      3 FRITZ!Box 5490 CD
+      2 Ziggo
+      2 Muuh.b
+      2 FRITZ!Box 5490 HX
+      2 FRITZ!Box 5490 EY
+      2 FRITZ!Box 5490 AK
+      1 Ziggo31940
+      1 Ziggo02291
+      1 H220N530593
+      1 FRITZ!Box 5490 TC
+      1 FRITZ!Box 5490 QD
+      1 FRITZ!Box 5490 PL
+      1 FRITZ!Box 5490 NM
+      1 FRITZ!Box 5490 HE
+      1 FRITZ!Box 5490 GV
+      1 FRITZ!Box 5490 FD
+      1 FRITZ!Box 5490 EL
+      1 FRITZ!Box 5490 DC
