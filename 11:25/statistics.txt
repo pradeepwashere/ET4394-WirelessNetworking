@@ -1,0 +1,2 @@
+Total number of unique SSIDs: 49
+Average SSID length is: 12
